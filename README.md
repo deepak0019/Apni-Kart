@@ -69,6 +69,21 @@ Start the server
   npm start
 ```
 
+#Output
+![Screenshot 2024-05-29 115649](https://github.com/deepak0019/Apni-Kart/assets/112982210/d8f62d5a-607e-4d29-86cb-faa2525122a0)
+
+
+
+![Screenshot 2024-05-29 115711](https://github.com/deepak0019/Apni-Kart/assets/112982210/1a673d57-8730-4421-ac46-62c7ef5eae12)
+![Screenshot 2024-05-29 115801](https://github.com/deepak0019/Apni-Kart/assets/112982210/ed88b237-e536-422f-88ef-798606c6cbcf)
+![Screenshot 2024-05-29 115819](https://github.com/deepak0019/Apni-Kart/assets/112982210/fc346e51-0c28-4d38-9f34-a9c93ed5f657)
+![Screenshot 2024-05-29 115900](https://github.com/deepak0019/Apni-Kart/assets/112982210/19210705-f868-4808-930b-f28d1d3c5a2b)
+![Screenshot 2024-05-29 115920](https://github.com/deepak0019/Apni-Kart/assets/112982210/1fb9e97b-8be8-417c-913a-e7a7d53e7d11)
+
+![Screenshot 2024-05-29 120013](https://github.com/deepak0019/Apni-Kart/assets/112982210/9eab9586-3fd4-42d7-99ed-c3d119a2b303)
+
+![Screenshot 2024-05-29 120027](https://github.com/deepak0019/Apni-Kart/assets/112982210/f6c7df41-9b4d-4767-aee7-4a1ebdf29d75)
+![Screenshot 2024-05-29 120056](https://github.com/deepak0019/Apni-Kart/assets/112982210/34fe0a9c-ef5e-46a5-a43c-19e57e7411a0)
 
 ## Author
 
