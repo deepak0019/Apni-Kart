@@ -1,14 +1,14 @@
 
 # Apni Kart
 
-Apni Kart is a modern e-commerce website designed to provide a seamless and secure shopping experience. Utilizing a powerful tech stack, Apni Kart ensures high performance, reliability, and a responsive user interface that works well on all devices. The platform includes advanced features like secure payment processing, user authentication, and a comprehensive admin panel, all aimed at enhancing user satisfaction and operational efficiency. Whether you're a shopper looking for a smooth and secure experience or an admin needing effective tools to manage products, Apni Kart caters to all your needs.
+Apni Kart is a modern e-commerce website designed to provide a seamless and secure shopping experience. Utilizing powerful tech stacks, Apni Kart ensures high performance, reliability, and a responsive user interface that works well on all devices. The platform includes advanced features like secure payment processing, user authentication, and a comprehensive admin panel, all aimed at enhancing user satisfaction and operational efficiency. Whether you're a shopper looking for a smooth and secure experience or an admin needing effective tools to manage products, Apni Kart caters to all your needs.
 
 
 
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, React.js
+**Frontend:** React.js, HTML, CSS
 
 **Backend:** Node.js, Express.js
 
